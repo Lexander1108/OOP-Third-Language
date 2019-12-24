@@ -1,1 +1,0 @@
-m = int(input("Enter your integer:\t"))
